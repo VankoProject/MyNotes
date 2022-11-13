@@ -14,7 +14,7 @@ interface ShopListRepository {
         TODO()
     }
 
-    fun getShopItem(shopItemId: ShopItem): ShopItem {
+    fun getShopItem(shopItemId: Int): ShopItem {
         return TODO()
     }
 
